@@ -9,7 +9,7 @@
 ## Installation
 Install dependencies.
 ```shell
-git clone https://github.com/CraftJarvis/JarvisVLA.git
+git clone https://github.com/mzhhhh666/JarvisVLA.git
 conda create -n jarvisVLA python=3.10
 conda activate jarvisVLA
 cd JarvisVLA
